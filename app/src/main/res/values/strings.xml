@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Live_Location_Qbitscience</string>
+    <string name="title_activity_current_location_maps">Current_Location_MapsActivity</string>
+</resources>
