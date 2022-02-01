@@ -10,7 +10,7 @@ you will get the follwing code
     Your API Key Here
 ....
 or in your andoid studio you will get 
-this file in values folder
+this file in values folder.
 In this code replace Your API Key Here  to your 
 own api key from
 Google Api console for develoers.
